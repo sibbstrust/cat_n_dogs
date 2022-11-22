@@ -1,12 +1,12 @@
 # Voting application and infrastructure deployment
 
-The deploy has two parts:
+The deployment has two parts:
 
  * Infrastructure
  * Application
 
 
-## Deploy
+## Deployment
 
 ### prerequisites
 
