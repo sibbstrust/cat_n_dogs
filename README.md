@@ -35,7 +35,7 @@ ansible-playbook playbook
 
 #### Automated tests
 
-The automated tests are done during :
+The automated tests are when :
 
  * Merging pull requests
  * Commits
